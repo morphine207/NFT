@@ -6,7 +6,9 @@
 To find out more please visit:
 
 [ℹ️ Website](http://gamblerbots.online/)
-
+[ℹ️ Twitter](https://twitter.com/GamblerBots)
+[ℹ️ Reddit](https://www.reddit.com/r/gamblerbots/)
+[ℹ️ Discord](https://discord.gg/MBk3CakkHV)
 
 This repo provides a simple NFT smart contract.
 
