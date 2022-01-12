@@ -1,7 +1,7 @@
-# Welcome to GamblerBots ![logo512](https://user-images.githubusercontent.com/34987521/149091045-a19fe686-fb56-43ee-8584-95c605362306.png)
+![logo192](https://user-images.githubusercontent.com/34987521/149091212-0e4b74c7-88f6-4160-903c-35c4e303db8a.png)
 
 
-
+# Welcome to GamblerBots! 
 
 To find out more please visit:
 
